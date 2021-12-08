@@ -1,0 +1,39 @@
+C:\Users\PremierSoft\Arquivos VS\Exercicio1 API Autentication\Exercicio1 API Autentication\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\PremierSoft\Arquivos VS\Exercicio1 API Autentication\Exercicio1 API Autentication\bin\Debug\net5.0\appsettings.json
+C:\Users\PremierSoft\Arquivos VS\Exercicio1 API Autentication\Exercicio1 API Autentication\bin\Debug\net5.0\Exercicio1 API Autentication.exe
+C:\Users\PremierSoft\Arquivos VS\Exercicio1 API Autentication\Exercicio1 API Autentication\bin\Debug\net5.0\Exercicio1 API Autentication.deps.json
+C:\Users\PremierSoft\Arquivos VS\Exercicio1 API Autentication\Exercicio1 API Autentication\bin\Debug\net5.0\Exercicio1 API Autentication.runtimeconfig.json
+C:\Users\PremierSoft\Arquivos VS\Exercicio1 API Autentication\Exercicio1 API Autentication\bin\Debug\net5.0\Exercicio1 API Autentication.runtimeconfig.dev.json
+C:\Users\PremierSoft\Arquivos VS\Exercicio1 API Autentication\Exercicio1 API Autentication\bin\Debug\net5.0\Exercicio1 API Autentication.dll
+C:\Users\PremierSoft\Arquivos VS\Exercicio1 API Autentication\Exercicio1 API Autentication\bin\Debug\net5.0\ref\Exercicio1 API Autentication.dll
+C:\Users\PremierSoft\Arquivos VS\Exercicio1 API Autentication\Exercicio1 API Autentication\bin\Debug\net5.0\Exercicio1 API Autentication.pdb
+C:\Users\PremierSoft\Arquivos VS\Exercicio1 API Autentication\Exercicio1 API Autentication\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\PremierSoft\Arquivos VS\Exercicio1 API Autentication\Exercicio1 API Autentication\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\PremierSoft\Arquivos VS\Exercicio1 API Autentication\Exercicio1 API Autentication\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\PremierSoft\Arquivos VS\Exercicio1 API Autentication\Exercicio1 API Autentication\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\PremierSoft\Arquivos VS\Exercicio1 API Autentication\Exercicio1 API Autentication\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\PremierSoft\Arquivos VS\Exercicio1 API Autentication\Exercicio1 API Autentication\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\PremierSoft\Arquivos VS\Exercicio1 API Autentication\Exercicio1 API Autentication\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\PremierSoft\Arquivos VS\Exercicio1 API Autentication\Exercicio1 API Autentication\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\PremierSoft\Arquivos VS\Exercicio1 API Autentication\Exercicio1 API Autentication\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\PremierSoft\Arquivos VS\Exercicio1 API Autentication\Exercicio1 API Autentication\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\PremierSoft\Arquivos VS\Exercicio1 API Autentication\Exercicio1 API Autentication\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+C:\Users\PremierSoft\Arquivos VS\Exercicio1 API Autentication\Exercicio1 API Autentication\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\PremierSoft\Arquivos VS\Exercicio1 API Autentication\Exercicio1 API Autentication\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\PremierSoft\Arquivos VS\Exercicio1 API Autentication\Exercicio1 API Autentication\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\PremierSoft\Arquivos VS\Exercicio1 API Autentication\Exercicio1 API Autentication\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\PremierSoft\Arquivos VS\Exercicio1 API Autentication\Exercicio1 API Autentication\obj\Debug\net5.0\Exercicio1 API Autentication.csproj.AssemblyReference.cache
+C:\Users\PremierSoft\Arquivos VS\Exercicio1 API Autentication\Exercicio1 API Autentication\obj\Debug\net5.0\Exercicio1 API Autentication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PremierSoft\Arquivos VS\Exercicio1 API Autentication\Exercicio1 API Autentication\obj\Debug\net5.0\Exercicio1 API Autentication.AssemblyInfoInputs.cache
+C:\Users\PremierSoft\Arquivos VS\Exercicio1 API Autentication\Exercicio1 API Autentication\obj\Debug\net5.0\Exercicio1 API Autentication.AssemblyInfo.cs
+C:\Users\PremierSoft\Arquivos VS\Exercicio1 API Autentication\Exercicio1 API Autentication\obj\Debug\net5.0\Exercicio1 API Autentication.csproj.CoreCompileInputs.cache
+C:\Users\PremierSoft\Arquivos VS\Exercicio1 API Autentication\Exercicio1 API Autentication\obj\Debug\net5.0\Exercicio1 API Autentication.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\PremierSoft\Arquivos VS\Exercicio1 API Autentication\Exercicio1 API Autentication\obj\Debug\net5.0\Exercicio1 API Autentication.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\PremierSoft\Arquivos VS\Exercicio1 API Autentication\Exercicio1 API Autentication\obj\Debug\net5.0\scopedcss\bundle\Exercicio1 API Autentication.styles.css
+C:\Users\PremierSoft\Arquivos VS\Exercicio1 API Autentication\Exercicio1 API Autentication\obj\Debug\net5.0\staticwebassets\Exercicio1 API Autentication.StaticWebAssets.Manifest.cache
+C:\Users\PremierSoft\Arquivos VS\Exercicio1 API Autentication\Exercicio1 API Autentication\obj\Debug\net5.0\Exercicio1 API Autentication.RazorTargetAssemblyInfo.cache
+C:\Users\PremierSoft\Arquivos VS\Exercicio1 API Autentication\Exercicio1 API Autentication\obj\Debug\net5.0\Exercicio1 API Autentication.csproj.CopyComplete
+C:\Users\PremierSoft\Arquivos VS\Exercicio1 API Autentication\Exercicio1 API Autentication\obj\Debug\net5.0\Exercicio1 API Autentication.dll
+C:\Users\PremierSoft\Arquivos VS\Exercicio1 API Autentication\Exercicio1 API Autentication\obj\Debug\net5.0\ref\Exercicio1 API Autentication.dll
+C:\Users\PremierSoft\Arquivos VS\Exercicio1 API Autentication\Exercicio1 API Autentication\obj\Debug\net5.0\Exercicio1 API Autentication.pdb
+C:\Users\PremierSoft\Arquivos VS\Exercicio1 API Autentication\Exercicio1 API Autentication\obj\Debug\net5.0\Exercicio1 API Autentication.genruntimeconfig.cache
